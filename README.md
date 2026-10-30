@@ -5,7 +5,7 @@ Right now I'm working on **TypeParkinson** with [@pranav-atreya10](https://githu
 **Some things I've made**
 
 - [Kodiak](https://github.com/BurTheBear/kodiak): a chess engine I wrote from scratch in JavaScript ([play it](https://burthebear.github.io/kodiak/)). It won 18 of 20 games against Stockfish set to 1500 Elo.
-- [Steady](https://github.com/BurTheBear/steady): draw with a fake tremor and compare five smoothing filters ([try it](https://burthebear.github.io/steady/))
+- [Steady](https://github.com/BurTheBear/steady): draw with a fake tremor and compare six smoothing filters ([try it](https://burthebear.github.io/steady/))
 - [TypeParkinson](https://github.com/BurTheBear/TypeParkinson-CAC): an iPhone app and system keyboard, in Swift
 - [Starlink](https://github.com/BurTheBear/starlink): a website with a 3D game inside, made as an AI-assisted coding challenge ([play](https://burthebear.github.io/starlink/))
 - [Hoopstar](https://github.com/BurTheBear/ink-arcade): a basketball coaching game in one HTML file ([play](https://burthebear.github.io/ink-arcade/))
