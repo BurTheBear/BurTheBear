@@ -23,51 +23,53 @@ I like building things people can actually use. That includes an iPhone keyboard
     <td width="50%" valign="top">
       <a href="https://github.com/BurTheBear/TypeParkinson-CAC"><img src="assets/typeparkinson.jpg" alt="TypeParkinson app screens"></a>
       <h3>TypeParkinson</h3>
-      <p>An iPhone and iPad keyboard for people with Parkinson's. It measures where each person's touches land, builds a keyboard around them, and keeps adapting as they type. It also has daily hand and voice check-ins, and a report to share with a care team.</p>
+      <p>An iPhone and iPad keyboard for people with Parkinson's. It measures where each person's touches land, builds a keyboard around that, and keeps adjusting as they type. It also has daily hand and voice check-ins and a report to share with a care team.</p>
       <p><code>Swift</code> <code>SwiftUI</code> <code>Keyboard extension</code> <code>On-device ML</code></p>
       <p><a href="https://github.com/BurTheBear/TypeParkinson-CAC">Code</a> · Congressional App Challenge 2026</p>
     </td>
     <td width="50%" valign="top">
       <a href="https://burthebear.github.io/kodiak/"><img src="assets/kodiak.jpg" alt="Kodiak chess engine web interface"></a>
       <h3>Kodiak</h3>
-      <p>A chess engine written from scratch with zero dependencies. It uses alpha-beta search, a transposition table, null-move pruning and quiescence search, and reaches depth 10–14 in two seconds. Its move generator is verified against published perft counts in CI.</p>
-      <p><code>JavaScript</code> <code>Algorithms</code> <code>Web Workers</code> <code>CI</code></p>
+      <p>A chess engine I wrote from scratch, with no libraries. It uses alpha-beta search with a transposition table, null-move pruning and quiescence search, and gets 10 to 14 moves deep in two seconds. The move generator is checked against published perft counts in CI.</p>
+      <p><code>JavaScript</code> <code>Search</code> <code>Web Workers</code></p>
       <p><a href="https://burthebear.github.io/kodiak/">Play it</a> · <a href="https://github.com/BurTheBear/kodiak">Code</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://burthebear.github.io/steady/"><img src="assets/steady.jpg" alt="Steady comparing tremor filters"></a>
+      <h3>Steady</h3>
+      <p>A side project from TypeParkinson. You draw with a simulated tremor and five filters try to steady it (moving average, exponential, 1€, Kalman and notch), scored on error, lag and leftover wobble.</p>
+      <p><code>JavaScript</code> <code>Kalman filter</code> <code>FFT</code> <code>Canvas</code></p>
+      <p><a href="https://burthebear.github.io/steady/">Try it</a> · <a href="https://github.com/BurTheBear/steady">Code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://burthebear.github.io/starlink/"><img src="assets/starlink.jpg" alt="Starlink website and game"></a>
+      <h3>Starlink</h3>
+      <p>A presentation site with a full 3D game inside. You fly a kettle-shaped rocket between doodle planets. Custom shaders make three.js look hand-drawn: toon lighting, crosshatching, and ink outlines.</p>
+      <p><code>three.js</code> <code>GLSL</code> <code>JavaScript</code></p>
+      <p><a href="https://burthebear.github.io/starlink/">Play it</a> · <a href="https://github.com/BurTheBear/starlink">Code</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/BurTheBear/quickhelp"><img src="assets/quickhelp.jpg" alt="QuickHelp architecture overview"></a>
       <h3>QuickHelp</h3>
-      <p>A micro-volunteering platform that matches 5–30 minute tasks with nearby volunteers. It has a mobile app, a realtime API and an admin dashboard. Streaks and leaderboards keep people coming back.</p>
+      <p>A micro-volunteering platform that matches small 5 to 30 minute tasks with nearby volunteers. It has a React Native app, an Express API with realtime updates, PostgreSQL through Prisma, and an admin dashboard.</p>
       <p><code>TypeScript</code> <code>React Native</code> <code>Express</code> <code>PostgreSQL</code> <code>Docker</code></p>
       <p><a href="https://github.com/BurTheBear/quickhelp">Code</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://burthebear.github.io/starlink/"><img src="assets/starlink.jpg" alt="Starlink website and game"></a>
-      <h3>Starlink</h3>
-      <p>An interactive presentation site with a full playable 3D adventure built in. You fly a kettle-shaped rocket between doodle planets. Custom ink-outline and crosshatch shaders give it a hand-drawn look.</p>
-      <p><code>three.js</code> <code>GLSL shaders</code> <code>JavaScript</code></p>
-      <p><a href="https://burthebear.github.io/starlink/">Play it</a> · <a href="https://github.com/BurTheBear/starlink">Code</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://burthebear.github.io/ink-arcade/"><img src="assets/arcade.jpg" alt="Ink Arcade home screen"></a>
-      <h3>Ink Arcade</h3>
-      <p>A launcher for my browser games. It includes <b>Hoopstar</b>, a basketball season sim where you recruit, train and manage a team, then play the games on a 3D court. It runs fully offline.</p>
-      <p><code>three.js</code> <code>Game design</code> <code>Web Audio</code></p>
+      <a href="https://burthebear.github.io/ink-arcade/"><img src="assets/hoopstar.jpg" alt="Hoopstar title screen"></a>
+      <h3>Hoopstar</h3>
+      <p>Coach a high school basketball team for three seasons: recruit, run practices, then play the games on a 3D court. It's one HTML file and works offline. It lives in my Ink Arcade with Inkstar.</p>
+      <p><code>three.js</code> <code>Simulation</code> <code>Web Audio</code></p>
       <p><a href="https://burthebear.github.io/ink-arcade/">Play it</a> · <a href="https://github.com/BurTheBear/ink-arcade">Code</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>More</h3>
-      <ul>
-        <li><b>The Great Pixel Adventure</b>: a 2D history adventure game in Godot (FBLA). Players time-travel to the 1910s and complete quests with historical characters.</li>
-        <li><b>Chess Glasses</b>: computer vision that reads a real chessboard through Ray-Ban Meta glasses and tracks the game move by move.</li>
-      </ul>
     </td>
   </tr>
 </table>
+
+**Also:** *The Great Pixel Adventure*, a 2D history adventure game in Godot for FBLA, and *Chess Glasses*, computer vision that reads a real chessboard through Ray-Ban Meta glasses and tracks the game move by move.
 
 ## Tools I use
 
