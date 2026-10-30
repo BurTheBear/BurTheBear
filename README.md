@@ -46,7 +46,7 @@ I like building things people can actually use. That includes an iPhone keyboard
     <td width="50%" valign="top">
       <a href="https://burthebear.github.io/starlink/"><img src="assets/starlink.jpg" alt="Starlink website and game"></a>
       <h3>Starlink</h3>
-      <p>A presentation site with a full 3D game inside. You fly a kettle-shaped rocket between doodle planets. Custom shaders make three.js look hand-drawn: toon lighting, crosshatching, and ink outlines.</p>
+      <p>A presentation site with a full 3D game inside. You fly a kettle-shaped rocket between doodle planets. Custom shaders make three.js look hand-drawn. It was built as an AI-assisted programming challenge: I directed the world, the design and the playtesting.</p>
       <p><code>three.js</code> <code>GLSL</code> <code>JavaScript</code></p>
       <p><a href="https://burthebear.github.io/starlink/">Play it</a> · <a href="https://github.com/BurTheBear/starlink">Code</a></p>
     </td>
