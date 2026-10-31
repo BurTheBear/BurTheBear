@@ -11,7 +11,8 @@ I just finished **TypeParkinson** with [@pranav-atreya10](https://github.com/pra
 - [TypeParkinson](https://github.com/BurTheBear/TypeParkinson-CAC): an iPhone app and system keyboard, in Swift
 - [Starlink](https://github.com/BurTheBear/starlink): a website with a 3D game inside, made as an AI-assisted coding challenge ([play](https://burthebear.github.io/starlink/))
 - [Hoopstar](https://github.com/BurTheBear/ink-arcade): a basketball coaching game in one HTML file ([play](https://burthebear.github.io/ink-arcade/))
+- [BurMarketAnalyzer](https://github.com/BurTheBear/BurMarketAnalyzer): a crypto research dashboard with live charts, paper trading, and a bot that has to ask before every trade (React, Cloudflare Workers)
 - [QuickHelp](https://github.com/BurTheBear/quickhelp): an app for small favors (React Native, Express, Postgres)
-- The Great Pixel Adventure: a 2D Godot game I made for FBLA
+- [The Great Pixel Adventure](https://github.com/BurTheBear/the-great-pixel-adventure): a 2D Godot game I made for FBLA
 
 I mostly use Swift, JavaScript/TypeScript and Python, plus PyTorch, Godot, three.js and Blender.
