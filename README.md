@@ -1,5 +1,7 @@
 Hi, I'm Atharv. I'm a student and I like making things you can actually try, so most of these run in a browser. More on my site: [burthebear.github.io](https://burthebear.github.io)
 
+Right now I'm working on a secret project called Neuropolis. More on that when it's ready.
+
 **Some things I've made**
 
 - [SkySentry](https://github.com/pranav-atreya10/hackphs-dot): our hackPHS team project. A phone camera spots birds and drones near a runway and warns a tower dashboard. I made the iPhone app, the dashboard and the 3D film ([live site](https://lancerhacks-rvs8r.ondigitalocean.app))
