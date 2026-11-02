@@ -1,6 +1,6 @@
 Hi, I'm Atharv. I'm a student and I like making things you can actually try, so most of these run in a browser. More on my site: [burthebear.github.io](https://burthebear.github.io)
 
-Right now I'm working on a secret project called Neuropolis. More on that when it's ready.
+(neuropolis - secret loading)
 
 **Some things I've made**
 
