@@ -4,6 +4,7 @@ Hi, I'm Atharv. I'm a student and I like making things you can actually try, so 
 
 **Some things I've made**
 
+- [Agent Relay](https://github.com/BurTheBear/agent-relay): keeps my coding projects moving while I'm away from Claude. A local model, Codex or headless Claude works on its own branch, and only test-passing work gets committed (Python)
 - [SkySentry](https://github.com/pranav-atreya10/hackphs-dot): our hackPHS team project. A phone camera spots birds and drones near a runway and warns a tower dashboard. I made the iPhone app, the dashboard and the 3D film ([live site](https://lancerhacks-rvs8r.ondigitalocean.app))
 - [Chess Glasses](https://github.com/BurTheBear/chess-glasses): Ray-Ban Meta glasses watch a real chessboard and Stockfish's move is spoken back (Python, PyTorch, Swift)
 - [Kodiak](https://github.com/BurTheBear/kodiak): a chess engine I wrote from scratch in JavaScript ([play it](https://burthebear.github.io/kodiak/)). It won 24 of 40 games against Stockfish set to 2100 Elo at fast time controls.
