@@ -16,4 +16,9 @@ Hi, I'm Atharv. I'm a student and I like making things you can actually try, so 
 - [QuickHelp](https://github.com/BurTheBear/quickhelp): an app for small favors (React Native, Express, Postgres)
 - [The Great Pixel Adventure](https://github.com/BurTheBear/the-great-pixel-adventure): a 2D Godot game I made for FBLA
 
+**Awards**
+
+- 2026 FBLA Nationals: top 3 with my Godot game, The Great Pixel Adventure
+- 2025 FBLA Nationals: top 10 in Computer Science
+
 I mostly use Swift, JavaScript/TypeScript and Python, plus PyTorch, Godot, three.js and Blender.
