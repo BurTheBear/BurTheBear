@@ -14,11 +14,19 @@ Hi, I'm Atharv. I'm a student and I like making things you can actually try, so 
 - [Hoopstar](https://github.com/BurTheBear/ink-arcade): a basketball coaching game in one HTML file ([play](https://burthebear.github.io/ink-arcade/))
 - [BurMarketAnalyzer](https://github.com/BurTheBear/BurMarketAnalyzer): a crypto research dashboard with live charts, paper trading, and a bot that has to ask before every trade (React, Cloudflare Workers)
 - [QuickHelp](https://github.com/BurTheBear/quickhelp): an app for small favors (React Native, Express, Postgres)
+- [VoiceVision](https://github.com/BurTheBear/voicevision): an iPhone app that tells blind and low-vision people what's ahead and warns about obstacles, all on the phone with Core ML. 1st place at the GAICOM 2025 AI Hackathon (Swift)
 - [The Great Pixel Adventure](https://github.com/BurTheBear/the-great-pixel-adventure): a 2D Godot game I made for FBLA
 
 **Awards**
 
+- 2026 hackPHS: Best Use of Solana, Best Use of TigerData, and 5th place overall, with SkySentry
 - 2026 FBLA Nationals: top 3 with my Godot game, The Great Pixel Adventure
+- 2025 GAICOM AI Hackathon: 1st place with VoiceVision
 - 2025 FBLA Nationals: top 10 in Computer Science
+- 2025 FBLA State Leadership Conference: 2nd in Exploring Technology, 4th in Coding & Programming
+- 2024 FBLA State Leadership Conference: 3rd in Exploring Computer Science
+- Top 10 finalist in several other FBLA events
+
+I also started the Hack Club at Livingston High School on my own, and in 2023 I was on the Mount Pleasant Middle School debate team.
 
 I mostly use Swift, JavaScript/TypeScript and Python, plus PyTorch, Godot, three.js and Blender.
