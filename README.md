@@ -4,6 +4,8 @@ Hi, I'm Atharv. I'm a student and I like making things you can actually try, so 
 
 **Some things I've made**
 
+FOUNDED and President of - LHS Hack Club at Livingston High School
+
 - [Agent Relay](https://github.com/BurTheBear/agent-relay): keeps my coding projects moving while I'm away from Claude. A local model, Codex or headless Claude works on its own branch, and only test-passing work gets committed (Python)
 - [SkySentry](https://github.com/pranav-atreya10/hackphs-dot): our hackPHS team project. A phone camera spots birds and drones near a runway and warns a tower dashboard. I made the iPhone app, the dashboard and the 3D film ([live site](https://lancerhacks-rvs8r.ondigitalocean.app))
 - [Chess Glasses](https://github.com/BurTheBear/chess-glasses): Ray-Ban Meta glasses watch a real chessboard and Stockfish's move is spoken back (Python, PyTorch, Swift)
@@ -27,6 +29,6 @@ Hi, I'm Atharv. I'm a student and I like making things you can actually try, so 
 - 2024 FBLA State Leadership Conference: 3rd in Exploring Computer Science
 - Top 10 finalist in several other FBLA events
 
-I also started the Hack Club at Livingston High School on my own, and in 2023 I was on the Mount Pleasant Middle School debate team.
+
 
 I mostly use Swift, JavaScript/TypeScript and Python, plus PyTorch, Godot, three.js and Blender.
